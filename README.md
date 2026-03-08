@@ -70,6 +70,27 @@ Priya Rathod,
 Tanu Singh
 
 
+## Project Structure
+
+Student-Performance-Prediction
+│
+├── dataset
+│   └── student_performance.csv
+│
+├── notebooks
+│   └── student_analysis.ipynb
+│
+├── src
+│   ├── preprocessing.py
+│   ├── train_model.py
+│   └── predict.py
+│
+├── results
+│   └── accuracy_graph.png
+│
+├── requirements.txt
+└── README.md
+
 
 
 
